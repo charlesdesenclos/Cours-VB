@@ -1,0 +1,13 @@
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\bin\Debug\Factoriel_2023.exe.config
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\bin\Debug\Factoriel_2023.exe
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\bin\Debug\Factoriel_2023.pdb
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\bin\Debug\Factoriel_2023.xml
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.vbproj.AssemblyReference.cache
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.Form1.resources
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.Resources.resources
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.vbproj.GenerateResource.cache
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.vbproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.exe
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.xml
+C:\Users\darkt\source\repos\Factoriel_2023\Factoriel_2023\obj\Debug\Factoriel_2023.pdb

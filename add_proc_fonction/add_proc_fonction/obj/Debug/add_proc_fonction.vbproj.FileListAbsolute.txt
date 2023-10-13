@@ -1,0 +1,13 @@
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\bin\Debug\add_proc_fonction.exe.config
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\bin\Debug\add_proc_fonction.exe
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\bin\Debug\add_proc_fonction.pdb
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\bin\Debug\add_proc_fonction.xml
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.vbproj.AssemblyReference.cache
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.Form1.resources
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.Resources.resources
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.vbproj.GenerateResource.cache
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.vbproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.exe
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.xml
+C:\Users\darkt\source\repos\add_proc_fonction\add_proc_fonction\obj\Debug\add_proc_fonction.pdb

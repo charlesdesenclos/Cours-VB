@@ -1,0 +1,13 @@
+C:\Users\darkt\source\repos\Basic info\Basic info\bin\Debug\Basic info.exe.config
+C:\Users\darkt\source\repos\Basic info\Basic info\bin\Debug\Basic info.exe
+C:\Users\darkt\source\repos\Basic info\Basic info\bin\Debug\Basic info.pdb
+C:\Users\darkt\source\repos\Basic info\Basic info\bin\Debug\Basic info.xml
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.vbproj.AssemblyReference.cache
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic_info.Resources.resources
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.vbproj.GenerateResource.cache
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.vbproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.exe
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.xml
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic info.pdb
+C:\Users\darkt\source\repos\Basic info\Basic info\obj\Debug\Basic_info.Form1.resources
