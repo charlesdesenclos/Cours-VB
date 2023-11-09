@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mini Calculatrice
+</name>
+</assembly>
+<members>
+<member name="T:Mini_Calculatrice.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_0">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_5">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_6">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_7">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_8">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_9">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_diviser">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_égale">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_fois">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_moins">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_plus">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_point">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_pourcentage">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_supprimer_une_val">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mini_Calculatrice.My.Resources.Resources.Calculatrice_touche_touche_supp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\bin\Debug\Appli-Test-Image.exe.config
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\bin\Debug\Appli-Test-Image.exe
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\bin\Debug\Appli-Test-Image.pdb
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\bin\Debug\Appli-Test-Image.xml
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.vbproj.AssemblyReference.cache
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli_Test_Image.Form1.resources
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli_Test_Image.Resources.resources
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.vbproj.GenerateResource.cache
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.vbproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.exe
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.xml
+C:\Users\darkt\source\repos\Appli-Test-Image\Appli-Test-Image\obj\Debug\Appli-Test-Image.pdb
